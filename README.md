@@ -1,5 +1,5 @@
 
-Intrssantes zu ESP auf: 
+Interessantes zu ESP auf: 
 
 [M5Stack ATOM is a Compact, Fully Integrated ESP32 Development Kit](https://www.cnx-software.com/2020/03/26/m5stack-atom-is-a-compact-fully-integrated-esp32-development-kit/).  
 [WiFiBoy32 is an ESP32 Portable Game Console and IoT Devkit](https://www.cnx-software.com/2018/08/06/wifiboy32-esp32-portable-game-console-iot-devkit/).  
