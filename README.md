@@ -1,3 +1,14 @@
+## Meine ESP Projekte
+
+- [ESPWebDAV-Mein-Wifi-Ender](https://github.com/dwhr-pi/ESPWebDAV-Mein-Wifi-Ender)
+- [tuya_iot_link_sdk_for_esp32](https://github.com/dwhr-pi/tuya_iot_link_sdk_for_esp32)
+- [tuya-iot-link-sdk-embedded-c](https://github.com/dwhr-pi/tuya-iot-link-sdk-embedded-c)
+- [FYSETC_ESPWebDAV ](https://github.com/dwhr-pi/FYSETC_ESPWebDAV)
+- [FYSETC_ESPWebDAV](https://github.com/dwhr-pi/FYSETC_ESPWebDAV)
+- [Tasmota](https://github.com/dwhr-pi/Tasmota)
+
+- [esphome-garage-door](https://github.com/dwhr-pi/esphome-garage-door)
+- [PicoLinux](https://github.com/dwhr-pi/PicoLinux)
 
 Interessantes zu ESP auf: 
 
@@ -7,6 +18,8 @@ Interessantes zu ESP auf:
 [Getting Started with MicroPython on ESP32 – Hello World, GPIO, and WiF](https://www.cnx-software.com/2017/10/16/esp32-micropython-tutorials/).  
 [Blink an LED on ESP32 board with Tuya Link SDK](https://www.cnx-software.com/2021/12/13/blink-an-led-on-esp32-board-with-tuya-link-sdk/).  
 
+
+ESP8266 https://github.com/esp8266/
 
 # ESPHome [![Discord Chat](https://img.shields.io/discord/429907082951524364.svg)](https://discord.gg/KhAMKrd) [![GitHub release](https://img.shields.io/github/release/esphome/esphome.svg)](https://GitHub.com/esphome/esphome/releases/)
 
